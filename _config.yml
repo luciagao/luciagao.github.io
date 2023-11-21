@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Gao/Personal Homepage"
+title                    : "Dr. Gao Personal Homepage"
 title_separator          : "-"
 name                     : &name "Ya Gao"
 description              : &description "Postdoctoral Fellow at the University of Toronto"
@@ -85,10 +85,10 @@ author:
   bio              : "Postdoctoral Fellow at the University of Toronto"
   location         : #"Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=Oid_m3sAAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/Ya-Gao-30"
+  researchgate     :  "https://www.researchgate.net/profile/Ya-Gao-30"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/ya-gao-299b9a78"
   orcid            : "http://orcid.org/0000-0002-5935-7384"
   pinterest        :
   soundcloud       :
