@@ -1,7 +1,6 @@
 ---
 layout: archive
 [CV](http://luciagao.github.io.github.io/files/CVyagao.pdf)
-
 ---
 
 {% include base_path %}
