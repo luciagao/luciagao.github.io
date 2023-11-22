@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV](http://luciagao.github.io.github.io/files/CVyagao.pdf)
 
+[Download CV](http://luciagao.github.io.github.io/files/CVyagao.pdf)
 Education
 ======
 * Ph.D. in Urban Planning, Tongji University, 2023
