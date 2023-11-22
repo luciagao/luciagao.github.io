@@ -12,21 +12,9 @@ redirect_from:
 Education
 ======
 * Ph.D. in Urban Planning, Tongji University, 2023
-* M.S.  in Urban Planning, Tongji University, 2015
-* M.S.  in Advanced Urbanism, Bauhaus-Universität Weimar, 2015
-* B.S.  in Urban Planning, Fujian University of Technology, 2012
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* M.S.   in Urban Planning, Tongji University, 2015
+* M.S.   in Advanced Urbanism, Bauhaus-Universität Weimar, 2015
+* B.S.    in Urban Planning, Fujian University of Technology, 2012
 
 Publications
 ======
@@ -45,6 +33,18 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Work experience
+======
+* Summer 2015: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
   
 Service and leadership
 ======
