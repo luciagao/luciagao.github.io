@@ -1,5 +1,15 @@
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+[Download CV](http://luciagao.github.io.github.io/files/CVyagao.pdf)
+---
 
-[CV](http://luciagao.github.io.github.io/files/CVyagao.pdf)
+{% include base_path %}
+
 
 
 Education
