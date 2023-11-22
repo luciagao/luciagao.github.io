@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Urban Planning, Tongji University, 2023
+* M.S.  in Urban Planning, Tongji University, 2015
+* M.S.  in Advanced Urbanism, Bauhaus-Universität Weimar, 2015
+* B.S.  in Urban Planning, Fujian University of Technology, 2012
 
 Work experience
 ======
@@ -26,15 +27,6 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
