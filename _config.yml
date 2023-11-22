@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Gao Personal Homepage"
+title                    : "Dr. Ya Gao Personal Homepage"
 title_separator          : "-"
 name                     : &name "Ya Gao"
 description              : &description "Postdoctoral Fellow at the University of Toronto"
