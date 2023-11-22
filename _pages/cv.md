@@ -5,12 +5,11 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
-[Download CV](http://luciagao.github.io.github.io/files/CVyagao.pdf)
 ---
 
 {% include base_path %}
 
-
+[Download CV](http://luciagao.github.io.github.io/files/CVyagao.pdf)
 
 Education
 ======
