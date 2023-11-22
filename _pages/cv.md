@@ -2,8 +2,6 @@
 [CV](http://luciagao.github.io.github.io/files/CVyagao.pdf)
 
 
-{% include base_path %}
-
 Education
 ======
 * Ph.D. in Urban Planning, Tongji University, 2023
