@@ -11,6 +11,7 @@ redirect_from:
 
 
 [Download CV](http://luciagao.github.io.github.io/files/CVyagao.pdf)
+
 Education
 ======
 * Ph.D. in Urban Planning, Tongji University, 2023
