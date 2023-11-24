@@ -1,7 +1,6 @@
 ---
 title: "Does high-speed rail mitigate peak vacation car traffic to tourist city? Evidence from China"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
 date: 2023-09-20
 Journal: 'Transport Policy'
 ---
