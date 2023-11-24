@@ -1,7 +1,6 @@
 ---
 title: "Understanding patients heterogeneity in healthcare travel and hospital choice - A latent class analysis with covariates"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
 date: 2023-05-26
 Journal: 'Journal of Transport Geography'
 ---
