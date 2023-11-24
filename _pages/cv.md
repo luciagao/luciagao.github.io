@@ -30,7 +30,7 @@ Publications
 * Haixiao Pan, Ya Gao*, Sou Chen, Guangyi Li, Chunying Li, Ercong Chen. 2019. Travel Experience Evaluation of Multi-Mode Ground Transportation——A Case Study in Guangzhou. <i> Urban Planning Forum</i>. 03, 105-113.
 * Haixiao Pan, Ya Gao*. 2017. A Critical Review of dockless Bike Sharing System Management in Shanghai. <i> Shanghai Urban Management</i>, 04, 58-62.
   
-Talks
+Conference Presentations
 ======
 * Ya Gao*, Haixiao Pan. 2023. Understanding the Impact of High-speed Rail on Intercity Commuting: Evidence from the Shanghai Metropolitan Area. <i>(3rd International Workshop on High-Speed Rail Socioeconomic Impacts, presented in oral)</i>
 * Ya Gao*, Haixiao Pan, Zhilin Xie, Khandker Nurul Habib. 2023. Understanding Patients Heterogeneity in Healthcare Travel and Hospital Choice – A Latent Class Analysis with Covariates. <i>(16th WCTR, presented in oral)</i>
@@ -41,18 +41,24 @@ Talks
 * Ya Gao*, Haixiao Pan, Qing Shen, Jianyi Tuo. 2018. Does High-Speed Rail and Online Booking Influence Self-driving on Tourism Purpose? Evidence from the Shaoxing Case Study. <i>(12th IACP, presented in oral)</i>
 * Ya Gao*, Haixiao Pan, Peng Chen. 2016. Evaluating the mobility of elderly people living in Shanghai suburbs. <i>(14th WCTR, presented in oral)</i>  
 
-Work experience
+Professional & Consulting Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022-2023 Strategies on the Integration of Healthcare Facility and Public Transit System in Shanghai, CHN
+* 2021-2022 The Overall Urban Renewal Project of Hangzhou, CHN
+* 2019-2021 Transit-oriented Development: Comparative Study between Shanghai and Tokyo
+* 2019-2021 Framework of Urban Database in Nanning using Multi-source Data Integration, CHN
+* 2018-2020 Assessing the Jobs-housing Balance in Nanning using Mobile Data, CHN
+* 2018-2019 Consulting Project of Evaluating Travel Experience in Guangzhou, CHN
+* 2017 Vision Plan for the Construction of Barrier-Free Environments in Shanghai, CHN
+* 2013 Project of Accessibility Promotion on Urban Public Transport, CHN
   
-Service and leadership
+Social Works
+======
+* Assistant organizer for the Exhibition of Passages, Transitional Spaces for the 21st Century City, Institut pour la ville en mouvement (IVM)
+* Assisted in the World Conference on Transport Research Society (WCTRS) organization
+* Assisted in the organizing of the International Urban Passage Competition（IVM International）
+* Assistant at the Shanghai Association of Persons with Physical Disability
+  
+Social Works
 ======
 * Currently signed in to 43 different slack teams
