@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 date: 2023-09-20
 Journal: 'Transport Policy'
-citation: 'Haixiao Pan, Ya Gao*, Qing Shen, Anne Vernez Moudon, Khandker Nurul Habib, Jianyi Tuo. 2023. &quot;Does high-speed rail mitigate peak vacation car traffic to tourist city? Evidence from China.&quot; <i> Transport Policy </i>, 143, 93-105.'
 ---
 
 Tourist travel contributes greatly to transport problems in attractive tourist cities. To take full advantage of high-speed rail (HSR) for alleviating massive car traffic during the peak vacation period, this paper analyses the travel modes of domestic visitors to Shaoxing before and after the operation of HSR. Scenario-based comparison and a random-coefficients structure Mixed Logit (MXL) model with error components were adopted to analyze the travel mode change and the factors explaining tourists’ travel mode choices. Our findings show that the HSR
