@@ -10,4 +10,4 @@ Access to health care is key to well-being, and it is increasingly clear that ag
 
 [Download paper here](http://luciagao.github.io/files/1-s2.0-S0966692323000807-main-transportgeography.pdf)
 
-Recommended citation: Haixiao Pan, Ya Gao*, Qing Shen, Anne Vernez Moudon, Khandker Nurul Habib, Jianyi Tuo. 2023. &quot;Does high-speed rail mitigate peak vacation car traffic to tourist city? Evidence from China.&quot; <i> Transport Policy </i>, 143, 93-105.
+Citation: Haixiao Pan, Ya Gao*, Qing Shen, Anne Vernez Moudon, Khandker Nurul Habib, Jianyi Tuo. 2023. &quot;Does high-speed rail mitigate peak vacation car traffic to tourist city? Evidence from China.&quot; <i> Transport Policy </i>, 143, 93-105.
