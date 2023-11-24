@@ -54,11 +54,7 @@ Professional & Consulting Experience
   
 Social Works
 ======
-* Assistant organizer for the Exhibition of Passages, Transitional Spaces for the 21st Century City, Institut pour la ville en mouvement (IVM)
-* Assisted in the World Conference on Transport Research Society (WCTRS) organization
-* Assisted in the organizing of the International Urban Passage Competition（IVM International）
-* Assistant at the Shanghai Association of Persons with Physical Disability
-  
-Social Works
-======
-* Currently signed in to 43 different slack teams
+* 2018 Assistant organizer for the Exhibition of Passages, Transitional Spaces for the 21st Century City, Institut pour la ville en mouvement (IVM)
+* 2016 Assisted in the World Conference on Transport Research Society (WCTRS) organization
+* 2015 Assisted in the organizing of the International Urban Passage Competition（IVM International）
+* 2015 Assistant at the Shanghai Association of Persons with Physical Disability
