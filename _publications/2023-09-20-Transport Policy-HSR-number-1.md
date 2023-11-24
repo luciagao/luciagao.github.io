@@ -1,7 +1,7 @@
 ---
 title: "Does high-speed rail mitigate peak vacation car traffic to tourist city? Evidence from China"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2023-09-20-Transport Policy-HSR-number-1
 date: 2023-09-20
 Journal: 'Transport Policy'
 citation: 'Haixiao Pan, Ya Gao*, Qing Shen, Anne Vernez Moudon, Khandker Nurul Habib, Jianyi Tuo. 2023. &quot;Does high-speed rail mitigate peak vacation car traffic to tourist city? Evidence from China.&quot; <i> Transport Policy </i>, 143, 93-105.'
